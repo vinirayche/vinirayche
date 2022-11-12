@@ -18,7 +18,7 @@
   <img align="right" alt="Vini-Pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ae/fd/6f/aefd6fa130062d1d307a96a87d6737c9.jpg">
 </div>
   
-  ##
+##
   
 <div> 
   <a href="https://www.youtube.com/channel/UCoxgbooFZ1Wc9Ul1cRYp_nw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
